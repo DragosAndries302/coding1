@@ -1,11 +1,11 @@
 body {
   background-color: LightSeaGreen;
-  font-family: Ariel, sans-serif;
+  font-family: Arial, sans-serif;
   text-align:center;
   padding: 60px;
 }
 
-hl {
+h1 {
   font-size: 70px;
   color: Green;
   margin-bottom: 20px;
