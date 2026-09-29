@@ -7,7 +7,7 @@ body {
 
 h1 {
   font-size: 70px;
-  color: Green;
+  color: Blue;
   margin-bottom: 20px;
-  text-shadow: 2px 2px Red;
+  text-shadow: 2px 2px Cyan;
 }
