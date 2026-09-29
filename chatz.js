@@ -8,13 +8,13 @@ const chatbotResponses={
 
 };
 
-function handleUSerInput(event) {
+function handleUserInput(event) {
   if(event.key=="Enter"){
     const userInput=document.getElementById("userInput").value;
     const chat=document.getElementById("chat");
 
     // Clear the input field  
-    document.getElementById("userInput").value"";
+    document.getElementById("userInput").value="";
 
     // Display user's message 
     chat.innerHTML += `<p><strong>You:</strong> ${userInput}</p>`;
