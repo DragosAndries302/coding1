@@ -1,9 +1,9 @@
 const chatbotResponses={
   "Hello!":"Hi pal",
-  "How are you?":"Good, what about you?",
-  "What is your name?":"My name is Francisco Jose Cienfuegos Todd",
-  "Can you help me with my homework?":"No, do it yourself",
-  "Bye!":"Bye pal",
+  "how are you?":"Good, what about you?",
+  "what is your name?":"My name is Francisco Jose Cienfuegos Todd",
+  "can you help me with my homework?":"No, do it yourself",
+  "bye!":"Bye pal",
   "default":"Rephrase that please"
 
 };
