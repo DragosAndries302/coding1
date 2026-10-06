@@ -23,4 +23,19 @@ a:visited {
   display: inline-block;
 
   background-color: Gold;
+  color: DarkGreen;
+
+  padding: 10px 18px;
+  margin: 5px;
   
+  text-decoration: none;
+  font-weight: bold;
+  
+  border: 2px solid DarkGreen;
+  border-radius: 8 px;
+
+  box-shadow: 3px 3px 0px DarkGreen;
+
+  transition: all 0.2s ease;
+
+}
