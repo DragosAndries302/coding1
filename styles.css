@@ -18,7 +18,7 @@ h1 {
   font-size: 20px;
 }
 
-a:link
+a:link,
 a:visited {
   display: inline-block;
 
@@ -32,10 +32,12 @@ a:visited {
   font-weight: bold;
   
   border: 2px solid DarkGreen;
-  border-radius: 8 px;
+  border-radius: 8px;
 
   box-shadow: 3px 3px 0px DarkGreen;
 
   transition: all 0.2s ease;
 
 }
+
+
