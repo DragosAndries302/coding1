@@ -6,7 +6,7 @@ const chatbotResponses={
   "what is your favourite animal":"A chicken",
   "what is your favourite subject at school":"Coding of course",
   "how old are you":"Old enough boy",
-  "do you like school":"Mr. Mclean give me more frees"
+  "do you like school":"Mr. McClean give me more frees",
   "what is your favourite colour":"Blue", 
   "bye":"Bye pal",
   "default":"Rephrase that please"
