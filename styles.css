@@ -22,8 +22,8 @@ a:link,
 a:visited {
   display: inline-block;
 
-  background-color: Gold;
-  color: DarkGreen;
+  background-color: White;
+  color: LightSeaGreen;
 
   padding: 10px 18px;
   margin: 5px;
@@ -31,10 +31,10 @@ a:visited {
   text-decoration: none;
   font-weight: bold;
   
-  border: 2px solid DarkGreen;
+  border: 2px solid LightSeaGreen;
   border-radius: 8px;
 
-  box-shadow: 3px 3px 0px DarkGreen;
+  box-shadow: 3px 3px 0px LightSeaGreen;
 
   transition: all 0.2s ease;
 
