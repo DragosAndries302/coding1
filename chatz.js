@@ -50,7 +50,3 @@ function handleUserInput(event) {
     chat.innerHTML += `<p><strong>Chatbot:</strong> ${response}</p>`;
   }
 }
-
-    chat.innerHTML += `<p><strong>Cheese:</strong> ${response}</p>`;
-  }
-}
