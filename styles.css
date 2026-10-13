@@ -1,3 +1,4 @@
+
 body {
   background-color: LightSeaGreen;
   font-family: Arial, sans-serif;
@@ -37,8 +38,21 @@ a:visited {
   box-shadow: 3px 3px 0px LightSeaGreen;
 
   transition: all 0.2s ease;
-
-  
 }
 
+button {
+  background-color: White;
+  color: LightSeaGreen;
 
+  padding: 10px 18px;
+  margin: 5px;
+
+  font-weight: bold;
+
+  border: 2px solid LightSeaGreen;
+  border-radius: 8px;
+
+  box-shadow: 3px 3px 0px LightSeaGreen;
+
+  transition: all 0.2s ease;
+}
